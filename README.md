@@ -1,9 +1,3 @@
-That’s awesome 🚀 — a **README** is the first thing recruiters or other developers will check on GitHub. It should clearly explain **what your project is, why it’s useful, how to set it up, and what tech you used**.
-
-Here’s a **complete README template** for your **Doctors Appointment Platform (Full Stack React Project with Next.js, Vonage, Tailwind, Prisma, Shadcn)**:
-
----
-
 # 🏥 Doctors Appointment Platform
 
 A **Full Stack Doctors Appointment Platform** built with **Next.js, Tailwind CSS, Prisma, and Shadcn UI**, integrated with **Vonage APIs** for real-time communication. This platform helps patients **book, manage, and attend appointments online**, while doctors can manage their schedules efficiently.
